@@ -1,0 +1,4 @@
+# 依存関係を記述していく
+
+fastapi
+uvicorn[standard]
